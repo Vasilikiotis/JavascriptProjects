@@ -1,5 +1,3 @@
-// prota tha epilekso ola ta html elemnts
-//kai tha ta valo se antistoixes metavlites
 
 const squares = document.querySelectorAll('.square')
 const mole = document.querySelector('.mole')
